@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.7.1)
+  - SwiftyJSON (5.0.1)
+  - TextFieldEffects (1.6.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - SwiftyJSON
+  - TextFieldEffects
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SwiftyJSON
+    - TextFieldEffects
+
+SPEC CHECKSUMS:
+  Alamofire: 0123a34370cb170936ae79a8df46cc62b2edeb88
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+  TextFieldEffects: 529b8aff706fb40f82c41c780c0777941a893796
+
+PODFILE CHECKSUM: 3c69fd0541ae2864afe19fc0acd54ba08f13a4d7
+
+COCOAPODS: 1.12.1
